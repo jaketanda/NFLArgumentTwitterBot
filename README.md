@@ -14,4 +14,6 @@ If someone responds to our bot, the bot will wait a little bit, and then respond
 
 Add whatever phrases and replies to the json, and have fun!
 
+Note: I made this when I was pretty new to Python3, so it might not work and it might suck. I'm working on a new version of this, so hopefully that should work better. Until then... this.
+
 Also note: This bot was made for fun and not to cause serious harm or trouble with anyone it interacts with. Don't be too mean to these passionate fans on Twitter :)
